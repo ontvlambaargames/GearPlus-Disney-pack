@@ -1,0 +1,8 @@
+{
+  "parent": "./red_minnie_ears",
+  "textures": {
+	"0": "block/white_concrete",
+	"1": "block/black_concrete",
+	"2": "block/black_concrete"
+  }
+}
