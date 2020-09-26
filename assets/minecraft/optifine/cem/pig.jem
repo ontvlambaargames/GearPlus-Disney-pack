@@ -20,6 +20,8 @@
 							"boxes": [
 								{"coordinates": [-5, -6, -7, 10, 16, 8], "textureOffset": [28, 8]},
 								{"coordinates": [0, -7, -3, 1, 1, 5], "textureOffset": [29, 0]},
+								{"coordinates": [2, -7, 5, 1, 1, 2], "textureOffset": [41, 0]},
+								{"coordinates": [1, -7, 6, 1, 1, 2], "textureOffset": [41, 0]},
 								{"coordinates": [1, -7, 1, 1, 1, 5], "textureOffset": [29, 0]}
 							]
 						}
@@ -54,9 +56,7 @@
 				{"coordinates": [-1, 15, -13, 2, 2, 3], "textureOffset": [41, 0]},
 				{"coordinates": [-1, 15, -8, 2, 2, 3], "textureOffset": [41, 0]},
 				{"coordinates": [-1, 14, -6, 2, 2, 3], "textureOffset": [41, 0]},
-				{"coordinates": [-1, 13, -4, 2, 2, 3], "textureOffset": [41, 0]},
-				{"coordinates": [2, 18, 8, 1, 2, 1], "textureOffset": [41, 0]},
-				{"coordinates": [1, 19, 8, 1, 2, 1], "textureOffset": [41, 0]}
+				{"coordinates": [-1, 13, -4, 2, 2, 3], "textureOffset": [41, 0]}
 			]
 		},
 		{
