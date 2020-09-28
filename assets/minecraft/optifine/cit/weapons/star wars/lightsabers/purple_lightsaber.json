@@ -1,0 +1,12 @@
+{
+	"credit": "Credit:  Ontvlambaar",
+	"parent": "./sith_lightsaber",
+	"textures": {
+		"0": "block/white_concrete",
+		"1": "block/light_gray_concrete",
+		"2": "block/black_concrete",
+		"3": "block/purple_concrete",
+		"4": "block/red_concrete_powder",
+		"particle": "block/white_concrete"
+	}
+}
