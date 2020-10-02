@@ -1,0 +1,41 @@
+{
+	"credit": "Credit: Ontvlambaar, Sammie_gaga",
+	"textures": {
+		"0": "loungefly/loungefly_logo_big",
+		"1": "block/birch_planks",
+		"particle": "loungefly/loungefly_logo_big"
+	},
+	"elements": [
+		{
+			"from": [0, 0, -0.1],
+			"to": [32, 16, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.1, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.1, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.1], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0.1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [32, 16, 0.1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.1, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0.1, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 0.1], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 0.1], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [0, 0, 16.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}
