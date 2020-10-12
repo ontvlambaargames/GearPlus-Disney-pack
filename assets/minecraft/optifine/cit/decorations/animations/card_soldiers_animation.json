@@ -1,0 +1,27 @@
+{
+	"credit": "Credit: Ontvlambaar, Sammie_gaga",
+	"textures": {
+		"0": "misc/card_soldiers",
+		"particle": "misc/card_soldiers"
+	},
+	"elements": [
+		{
+			"from": [-0.4, -0.4, 0.7],
+			"to": [32, 24, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.3, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.3, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0.3], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0.3], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [-12.5, -13.5, 8],
+			"scale": [4, 3.9, 1]
+		}
+	}
+}

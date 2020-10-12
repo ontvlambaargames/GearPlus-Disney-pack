@@ -1,0 +1,11 @@
+{
+	"credit": "Credit: Ontvlambaar, Sammie_gaga",
+	"textures": {
+		"particle": "block/birch_planks"
+	},
+	"display": {
+		"fixed": {
+			"translation": [0, 0, -8]
+		}
+	}
+}
